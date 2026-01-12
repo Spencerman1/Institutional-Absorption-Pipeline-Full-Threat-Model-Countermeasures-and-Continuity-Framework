@@ -1,6 +1,6 @@
-﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\hashes.txt
-02B3872CF439A2F968DEE45D2674ACBCFE1492475E24504345886B4A53BC525F *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\Screenshot 2026-01-10 065146.png
-4939195B72CFDE1328888C132C3DA687DC28B86ACB45EF8E3273809A6B3FDB4A *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\Screenshot 2026-01-10 065534.png
-DC06CE53F5E3038EB4135EBB0C989E5120BBB78E585A069EF9B63990418AB18D *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\The Correct Legal Strategy (High Level).docx
-06A52D946FAF7D5CCA9303CE401612AABD931A76EDC236BC941392D544674373 *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\The Correct Legal Strategy (High Level).md
-9513CD0290CEF2E423FD0920AA75E67E9FBD8247F986A7836841CBB4E4308285 *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\The Correct Legal Strategy (High Level).pdf
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\Desktop\The Correct Legal Strategy (High Level)\hashes.txt
+142E3A6B0334C5E93A9F2D7DBD8F211C1703A366DCB95BE6995FAA069328B2EE *C:\Users\Spenc\Desktop\The Correct Legal Strategy (High Level)\Screenshot 2026-01-10 065843.png
+1A8D1723B6E9CAE40110BD3C49883A1956808F6CAC6A6A615207521FFC16A12E *C:\Users\Spenc\Desktop\The Correct Legal Strategy (High Level)\Screenshot 2026-01-10 065922.png
+194419285B03BB17A35E4BF735A8E1CD3236641CA76AFB2906ACBCC8A80BEC19 *C:\Users\Spenc\Desktop\The Correct Legal Strategy (High Level)\The Correct Legal Strategy (High Level).docx
+06A52D946FAF7D5CCA9303CE401612AABD931A76EDC236BC941392D544674373 *C:\Users\Spenc\Desktop\The Correct Legal Strategy (High Level)\The Correct Legal Strategy (High Level).md
+9513CD0290CEF2E423FD0920AA75E67E9FBD8247F986A7836841CBB4E4308285 *C:\Users\Spenc\Desktop\The Correct Legal Strategy (High Level)\The Correct Legal Strategy (High Level).pdf
