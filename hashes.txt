@@ -1,12 +1,6 @@
-﻿2BB0D433651C1D2949AB99EFD6D3BF5A76D8BE4C6FCD0E772952037E87E73FAC *C:\Users\Spenc\Desktop\Legal language preperation\dialogue block Screenshot 2026-01-10 063051.png
-117CB4287FA18458F4DC9FEBD3E6A0CB8F36DDCCCC8BE51FB16A8AA69B9B646D *C:\Users\Spenc\Desktop\Legal language preperation\hashes.txt
-113B7126217D99521AE2A6E78B511664A187869B2842164A7799A589FE8668F1 *C:\Users\Spenc\Desktop\Legal language preperation\language for forensic skillset Screenshot 2026-01-10 064314.png
-876093B6F3B1FC800CDE9B063FC2033C2E76E78351885F9FF07F00C9F5608371 *C:\Users\Spenc\Desktop\Legal language preperation\Legal language for preperation of data.docx
-AA7F824B5D9B31B61D70171D6B5C65D9973378437AB2FEE09E3EE72252589753 *C:\Users\Spenc\Desktop\Legal language preperation\Legal language for preperation of data.md
-B180030D35E93BC04B83CC257D40BF46A6C862338F3259256B1589CE2415D7D8 *C:\Users\Spenc\Desktop\Legal language preperation\Legal language for preperation of data.pdf
-87F947606D0A661CF834DC88529C7A0F2DF0E3F8321358507AC0CBC60994CF2A *C:\Users\Spenc\Desktop\Legal language preperation\Screenshot 2026-01-10 062955.png
-0B9907591E81F888BF709AEC3001D2756435FBFBFCCD338EF0E6723EBD3BFCB8 *C:\Users\Spenc\Desktop\Legal language preperation\Screenshot 2026-01-10 063022.png
-7357EFBA0EAFAEC2D09A10423817F1B8F73A86CC208D4CD81BB1FE9905E833AD *C:\Users\Spenc\Desktop\Legal language preperation\The core problem Screenshot 2026-01-10 064832.png
-4E71F12469AA748B765113D0DDB2A4130D5521CC7A61CCC21E0906665C3F16ED *C:\Users\Spenc\Desktop\Legal language preperation\The correct legal startegy Screenshot 2026-01-10 065030.png
-5216AB690032F3F0A13B4F63327FDF67DE4E8B6D550553040DD96A6A24BA8504 *C:\Users\Spenc\Desktop\Legal language preperation\The Governing rule you must anchor to Screenshot 2026-01-10 064914.png
-021B73E417F8CDBB90F8FE8A68B3503E80D7719068C8E8B8F3DD200AC7241CFB *C:\Users\Spenc\Desktop\Legal language preperation\what this process has prepared Screenshot 2026-01-10 063150.png
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\hashes.txt
+02B3872CF439A2F968DEE45D2674ACBCFE1492475E24504345886B4A53BC525F *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\Screenshot 2026-01-10 065146.png
+4939195B72CFDE1328888C132C3DA687DC28B86ACB45EF8E3273809A6B3FDB4A *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\Screenshot 2026-01-10 065534.png
+DC06CE53F5E3038EB4135EBB0C989E5120BBB78E585A069EF9B63990418AB18D *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\The Correct Legal Strategy (High Level).docx
+06A52D946FAF7D5CCA9303CE401612AABD931A76EDC236BC941392D544674373 *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\The Correct Legal Strategy (High Level).md
+9513CD0290CEF2E423FD0920AA75E67E9FBD8247F986A7836841CBB4E4308285 *C:\Users\Spenc\Desktop\The 5 layer stack blueprint you need\The Correct Legal Strategy (High Level).pdf
